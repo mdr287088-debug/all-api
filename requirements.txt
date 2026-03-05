@@ -1,0 +1,11 @@
+Flask
+requests
+pycryptodome
+protobuf==4.25.3
+PyJWT
+Werkzeug
+httpx
+flask-cors
+cachetools
+Pillow
+urllib3
